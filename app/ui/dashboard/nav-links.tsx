@@ -9,6 +9,8 @@ import {usePathname} from "next/navigation";
 // Define styled components
 const StyledDiv = styled.div`
     display: flex;
+    width: 80%;
+    margin: auto;
     flex-direction: column;
     justify-content: center;
     align-items: center;
